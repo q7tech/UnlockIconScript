@@ -7,7 +7,7 @@ A script that runs Absolute's 2.2 Icon Hack
 1. Download the exe file from [here](https://github.com/actuallyarm64/UnlockIconScript/releases/download/v1/UnlockIconScript.exe)
 2. Run the exe.
 > [!IMPORTANT]  
-> There's a non-zero chance that your anti-virus will falsely mark this program as harmful. This is because the way it works is it drops a .bat file in your `%temp%` folder and runs it invisibly, similar to how Malware works.<br><br>It's a good idea to mark this program as an exception.
+> There's a non-zero chance that your anti-virus will falsely mark this program as harmful. This is because the way it works is it drops a .bat file in your `%temp%` folder and runs it invisibly, similar to how Malware works.<br><br>You may have to mark this program as an exception.
 
 ## Making it run in the startup
 
