@@ -39,7 +39,7 @@ set "opened=0"
 for /f "tokens=*" %%A in ('powershell -command "Get-Process GeometryDash -ErrorAction SilentlyContinue"') do set "gd=%%A"
 if not "%gd%"=="" (
     if "%opened%"=="0" (
-        start "" "C:\Users\ahino\Downloads\2.2 Unlock All.exe"
+        start "" "%userprofile%\Downloads\2.2 Unlock All.exe"
         set "opened=1"
     )
 ) else (
