@@ -1,3 +1,6 @@
+# Why was this archived?
+This repository is archived now because of the release of the new Mega Hack. Though, if you still use the old icon hack that Absolute release ~1 day after 2.2, this script still works.
+
 # UnlockIconScript
 
 A script that runs Absolute's 2.2 Icon Hack
